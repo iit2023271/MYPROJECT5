@@ -3,6 +3,10 @@
 A simple to-do list. Add tasks, tick them off when done, edit them, or delete them.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Add a task to the Todo list
